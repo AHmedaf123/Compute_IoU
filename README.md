@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Image-Watermark
 
@@ -17,3 +18,6 @@ Use the Script [Compute_IoU.py](https://github.com/Python-World/python-mini-proj
 
 ## Author
 [Mason](https://github.com/JohnMasoner)
+=======
+# Compute_IoU
+>>>>>>> c418356d6f346332a1ce23a27a626dd9a392a992
